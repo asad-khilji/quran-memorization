@@ -27,5 +27,10 @@ function nextCard() {
     displayCard();
 }
 
+function prevCard() {
+    currentCardIndex = (currentCardIndex - 1) % flashcards.length;
+    displayCard();
+}
+
 // Initialize the first card
 displayCard();
