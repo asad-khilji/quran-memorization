@@ -61,6 +61,7 @@ body {
 .back {
     background: #fff;
     transform: rotateY(180deg);
+    padding: 20px;
 }
 
 .flashcard:hover .card-content {
