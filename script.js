@@ -1,5 +1,5 @@
 const flashcards = [
-    { question: "Allah", answer: "The Greatest Name" }
+    { question:  "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ", answer: "I seek protection with Allah from the devil the outcast" }
 ];
 
 let currentCardIndex = 0;
