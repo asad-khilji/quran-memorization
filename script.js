@@ -1,5 +1,6 @@
 const flashcards = [
     { question:  "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ", answer: "I seek protection with Allah from the devil the outcast" }
+    { question:  "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ", answer: "With the name of Allah, the extremely loving and caring right now, the always loving and caring" }
 ];
 
 let currentCardIndex = 0;
